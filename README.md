@@ -117,17 +117,15 @@ Open your browser at http://localhost:3000
 (Full API documentation in /backend/routes)
 
 7. Screenshots / Demo
+🤖 AI leave Welcome page
 ![Power BI Dashboard](1.png)
-![Power BI Dashboard](2.png)
-![Power BI Dashboard](3.png)
-
 🏠 Employee dashboard
-
+![Power BI Dashboard](3.png)
 📝 Leave application form
 
 🏢 Admin approval panel
 
-🤖 AI leave insights (if implemented)
+
 
 8. Future Enhancements
 
