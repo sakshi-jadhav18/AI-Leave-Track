@@ -119,15 +119,19 @@ Open your browser at http://localhost:3000
 7. Screenshots / Demo
 🤖 AI leave Welcome page
 ![Power BI Dashboard](1.png)
+
 🏠 Employee dashboard
 ![Power BI Dashboard](3.png)
+
 📝 Leave application form
+![Power BI Dashboard](4.png)
 
 🏢 Admin approval panel
+![Power BI Dashboard](5.png)
 
 
 
-8. Future Enhancements
+9. Future Enhancements
 
 🤖 AI-based leave prediction for optimal scheduling
 
